@@ -1,6 +1,7 @@
 ### Hi there 👋
 ***
-![Twitter Follow](https://img.shields.io/twitter/follow/oappdev?style=social)
+
+[![Twitter URL](https://img.shields.io/twitter/follow/oappdev?style=social)](https://twitter.com/oappdev)
 ***
 ![image](https://user-images.githubusercontent.com/19554935/87065375-f37a4b00-c1de-11ea-80cf-c88cd8ee0ad0.png)
 <!--
