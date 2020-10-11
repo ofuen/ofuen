@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 ***
-![image](https://user-images.githubusercontent.com/19554935/87065375-f37a4b00-c1de-11ea-80cf-c88cd8ee0ad0.png)
+![image](https://user-images.githubusercontent.com/19554935/95678072-057dd800-0b98-11eb-9a58-c5744dc39654.png)
 <!--
 **ofuen/ofuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
