@@ -1,5 +1,7 @@
 ### Hi there 👋
 ***
+![image](https://user-images.githubusercontent.com/19554935/95678072-057dd800-0b98-11eb-9a58-c5744dc39654.png)
+***
 [![Twitter URL](https://img.shields.io/twitter/follow/oappdev?style=social)](https://twitter.com/oappdev)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
@@ -7,7 +9,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 ***
-![image](https://user-images.githubusercontent.com/19554935/95678072-057dd800-0b98-11eb-9a58-c5744dc39654.png)
 <!--
 **ofuen/ofuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
