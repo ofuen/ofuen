@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/19554935/95678072-057dd800-0b98-11eb-9a58-c5744dc39654.png)
 ***
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/ofuen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
