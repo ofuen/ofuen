@@ -2,7 +2,7 @@
 ***
 ![image](https://www.athinfosys.com/assets/images/PowerPlatform/powerplatformb1.png)
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
