@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-![image](https://user-images.githubusercontent.com/19554935/95678072-057dd800-0b98-11eb-9a58-c5744dc39654.png)
+![image](https://www.athinfosys.com/assets/images/PowerPlatform/powerplatformb1.png)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&)](https://github.com/anuraghazra/github-readme-stats)
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
