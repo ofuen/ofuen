@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-![image](https://www.athinfosys.com/assets/images/PowerPlatform/powerplatformb1.png)
+![image](https://d2m21dzi54s7kp.cloudfront.net/wp-content/uploads/2021/02/Microsoft-Power-Platform.png)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
