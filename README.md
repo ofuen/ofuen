@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-![image]([https://aptude.com/wp-content/uploads/2021/11/power_platform_logos.png](https://www.intelogy.co.uk/wp-content/uploads/2020/12/final-logos-power-platform-1200x309.png))
+![image]([[https://aptude.com/wp-content/uploads/2021/11/power_platform_logos.png](https://www.intelogy.co.uk/wp-content/uploads/2020/12/final-logos-power-platform-1200x309.png)](https://www.intelogy.co.uk/wp-content/uploads/2020/12/final-logos-power-platform-1200x309.png))
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
