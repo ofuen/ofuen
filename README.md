@@ -5,8 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuen&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Ofuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
-[![Twitter URL](https://img.shields.io/twitter/follow/oappdev?style=social)](https://twitter.com/oappdev)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ***
 <!--
 **ofuen/ofuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
